@@ -14,3 +14,10 @@ For correct PIN <br>
 For wrong PIN <br>
 
 ![Guess wrong PIN](https://github.com/aayushisingh11/python-mini-projects/blob/master/Guess%20the%20PIN/Guess%20wrong.png)
+---
+3. Crazy ATM
+
+![ATM function](https://github.com/aayushisingh11/python-mini-projects/blob/master/Crazy%20ATM/ATM%20function.png)
+
+![Crazy ATM](https://github.com/aayushisingh11/python-mini-projects/blob/master/Crazy%20ATM/ATM%20function.png) ![Crazy ATM](https://github.com/aayushisingh11/python-mini-projects/blob/master/Crazy%20ATM/function%203%20%26%204.png)
+---
