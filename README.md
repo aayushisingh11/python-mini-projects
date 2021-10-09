@@ -26,7 +26,7 @@ For wrong PIN <br>
 A simple Dice Roll Simulator using PySide6
 
 
-![dice roll](https://github.com/aayushisingh11/python-mini-projects/blob/master/Dice%20Roll%20Simulator/screenshots/Rolled.png)
+![dice roll](https://github.com/aayushisingh11/python-mini-projects/blob/master/Random%20Number%20Generator/screenshots/MainWindow.png)
 ---
 **5. Random-Number-Generator**
 
