@@ -28,3 +28,8 @@ A simple Dice Roll Simulator using PySide6
 
 ![dice roll](https://github.com/aayushisingh11/python-mini-projects/blob/master/Dice%20Roll%20Simulator/screenshots/Rolled.png)
 ---
+**5. Random-Number-Generator**
+
+A simple Random Number Generator using PySide6
+
+![Screenshot](screenshots/MainWindow.png)
