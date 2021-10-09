@@ -21,7 +21,7 @@ For wrong PIN <br>
 
 ![Crazy ATM](https://github.com/aayushisingh11/python-mini-projects/blob/master/Crazy%20ATM/function%201%20%26%202.png) ![Crazy ATM](https://github.com/aayushisingh11/python-mini-projects/blob/master/Crazy%20ATM/function%203%20%26%204.png)
 ---
-**4.Dice-Roll-Simulator
+**4. Dice-Roll-Simulator
 
 A simple Dice Roll Simulator using PySide6
 
