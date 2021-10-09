@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>play.png</file>
+    <file>app-icon.png</file>
+    <file>quit.png</file>
+  </qresource>
+</RCC>
