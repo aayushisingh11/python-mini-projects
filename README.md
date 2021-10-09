@@ -24,5 +24,7 @@ For wrong PIN <br>
 **4.Dice-Roll-Simulator
 
 A simple Dice Roll Simulator using PySide6
+
+
 ![dice roll](https://github.com/aayushisingh11/python-mini-projects/blob/master/Dice%20Roll%20Simulator/screenshots/Rolled.png)
 ---
